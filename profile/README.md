@@ -5,10 +5,15 @@ Repository Overview: This repository serves as a comprehensive archive of code s
 Research Domains:
 
 Software Evolution and Maintenance: Specialization: Bad Code Smells and Self-Admitted Technical Debt. 
+
 Software Testing: Emphasis on Organizational Dynamics, Exploratory Testing, Continuous Integration, and Maturity in Software Test Automation.
+
 Software Operations: Concentration on Software Log Analysis. 
+
 Systematic Literature Reviews: Focus on Multi-vocal Literature Reviews and Automating Systematic Literature Reviews.
+
 Bibliometrics: Analysis and Application in Software Engineering Context. 
+
 Trend Mining: Unearthing and Understanding Evolving Patterns in Software Engineering through databases such as Scopus, Stackoverflow, Twitter and Reddit. 
 Behavioral Aspects of Software Engineering: Investigating the Human Element in Software Development Processes. 
 
