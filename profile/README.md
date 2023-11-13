@@ -1,6 +1,6 @@
 Software Evolution, Testing, Operations, Literature Reviews, Bibliometrics, Behavioral SE
 
-Repository Overview: This repository serves as a comprehensive archive of code stemming from the research initiatives led by Professor Mika Mäntylä. With affiliations spanning from the University of Helsinki to the University of Oulu, Aalto University, and Lund University, this collection embodies a rich history of academic exploration and innovation.
+Repository Overview: This repository serves as a comprehensive archive of code stemming from the research initiatives led or collaborated by Professor Mika Mäntylä. With affiliations spanning from the University of Helsinki to the University of Oulu, Aalto University, and Lund University, this collection embodies a rich history of academic exploration and innovation.
 
 Research Domains:
 
